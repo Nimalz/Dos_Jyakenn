@@ -1,1 +1,1 @@
-# This is a Dos Game made with c
+# This is a Dos Game made with C
